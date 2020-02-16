@@ -16,7 +16,7 @@ Here is the table of content forall the readings :
 | Class 09  | [ Forms and Events ](class09.md) |
 | Class 10  | [ JS Debugging ](class10.md) |
 | Class 11  | [ Assorted Topics ](class11.md) |
-| Class 12  | [ marah ](class12.md) |
+| Class 12  | [ Docs for the HTML canvas Element & Chart js ](class12.md) |
 | Class 13  | [ local storage ](class13.md) |
 | Class 14  | [ CSS Transforms, Transitions, and Animations ](class14.md) |
 | Class 15  | [ What Google Learned About Teams ](class15.md) |
