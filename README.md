@@ -5,7 +5,7 @@ Here is the table of content forall the readings :
 
 | Class num | Topic / link |
 |-----------|--------------|
-| Class 01  | [Introductory to HTML & JavaScript](class01.md) |
+| Class 01  | [ Introductory to HTML & JavaScript](class01.md) |
 | Class 02  | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions](class02.md) |
 | Class 03  | [ HTML Lists, CSS Boxes, JS Control Flow ](class03.md) |
 | Class 04  | [ HTML Links, CSS Layout, JS Functions ](class04.md) |
