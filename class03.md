@@ -74,6 +74,8 @@
 
 # JavaScript :
 
+## CH 4: DECISIONS & LOOPS
+
 ### Switch statement :
 
 - switch statements allow you to compare a value against possible outcomes with a defult option.
