@@ -17,7 +17,7 @@
 
 **You can use float rule to move the content.**
 
-- you can use multiple style sheets
+**you can use multiple style sheets**
 
 *types of page layout:*
 - fixed layout 
