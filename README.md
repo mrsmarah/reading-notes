@@ -18,5 +18,5 @@ Here is the table of content forall the readings :
 | Class 11  | [ Assorted Topics ](class11.md) |
 | Class 12  | [ Docs for the HTML canvas Element & Chart js ](class12.md) |
 | Class 13  | [ local storage ](class13.md) |
-| Class 14b | [ CSS Transforms, Transitions, and Animations ](class14b.md) |
 | Class 14a | [ What Google Learned About Teams ](class14a.md) |
+| Class 14b | [ CSS Transforms, Transitions, and Animations ](class14b.md) |
