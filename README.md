@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-Here is the table of content forall the readings :
+Here is the table of content for all the readings :
 
 
 | Class num | Topic / link |
@@ -20,3 +20,13 @@ Here is the table of content forall the readings :
 | Class 13  | [ local storage ](class13.md) |
 | Class 14a | [ What Google Learned About Teams ](class14a.md) |
 | Class 14b | [ CSS Transforms, Transitions, and Animations ](class14b.md) |
+
+# Code 301 Reading Notes
+
+Here is the table of content for all the readings :
+
+
+| Class num | Topic / link |
+|-----------|--------------|
+| Class 01  | [ Introductory to HTML & JavaScript](class-01.md) |
+
