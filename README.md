@@ -28,5 +28,5 @@ Here is the table of content for all the readings :
 
 | Class num | Topic / link |
 |-----------|--------------|
-| Class 01  | [ Introductory to HTML & JavaScript](class-01.md) |
+| Class 01  | [ SMACSS and Responsive Web Design](class-01.md) |
 
