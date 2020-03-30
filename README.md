@@ -29,4 +29,4 @@ Here is the table of content for all the readings :
 | Class num | Topic / link |
 |-----------|--------------|
 | Class 01  | [ SMACSS and Responsive Web Design](class-01.md) |
-
+| Class 02  | [ jQuery, Events, and The DOM](class-02.md) |
