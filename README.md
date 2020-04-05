@@ -34,4 +34,5 @@ Here is the table of content for all the readings :
 | Class 04  | [ Responsive Web Design and Regular Expressions](class-04.md) |
 | Class 05  | [ Heroku Deployment](class-05.md) |
 | Class 06  | [ Node, Express, and APIs](class-06.md) |
+| Class 07  | [ APIs continued](class-07.md) |
 
