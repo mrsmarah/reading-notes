@@ -36,3 +36,4 @@ Here is the table of content for all the readings :
 | Class 06  | [ Node, Express, and APIs](class-06.md) |
 | Class 07  | [ APIs continued](class-07.md) |
 | Class 08  | [ SQL ](class-08.md) |
+| Class 09  | [ Refactoring ](class-09.md) |
