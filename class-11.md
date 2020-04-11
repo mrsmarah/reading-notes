@@ -34,8 +34,11 @@
 - Includes:
 
 1- Both server JS and browser support
+
 2- Static caching of intermediate JavaScript
+
 3- Static caching of templates
+
 4- Complies with the Express view system
  
 
