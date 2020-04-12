@@ -39,3 +39,4 @@ Here is the table of content for all the readings :
 | Class 09  | [ Refactoring ](class-09.md) |
 | Class 10  | [ The Call Stack and Debugging ](class-10.md) |
 | Class 11  | [ EJS ](class-11.md) |
+| Class 12  | [ Components ](class-12.md) |
