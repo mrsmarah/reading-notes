@@ -40,3 +40,4 @@ Here is the table of content for all the readings :
 | Class 10  | [ The Call Stack and Debugging ](class-10.md) |
 | Class 11  | [ EJS ](class-11.md) |
 | Class 12  | [ Components ](class-12.md) |
+| Class 13  | [ Update/Delete ](class-13.md) |
