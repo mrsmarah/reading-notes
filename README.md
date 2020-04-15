@@ -42,4 +42,5 @@ Here is the table of content for all the readings :
 | Class 12  | [ Components ](class-12.md) |
 | Class 13  | [ Update/Delete ](class-13.md) |
 | Class 14  | [ DB Normalization ](class-14.md) |
+| Class 15  | [ Diversity ](class-15.md) |
 
