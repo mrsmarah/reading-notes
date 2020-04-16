@@ -44,4 +44,3 @@ Here is the table of content for all the readings :
 | Class 14  | [ DB Normalization ](class-14.md) |
 | Class 15  | [ Diversity ](class-15.md) |
 
-![](/images/domain.png)
